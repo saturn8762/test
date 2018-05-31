@@ -1,1 +1,1 @@
-directory = /etc/www
+directory = /etc/apache2
